@@ -2,7 +2,7 @@
 
 # Solar Panel Efficiency Prediction ⚙️☁️🌞
 
-## Introduction `\(￣︶￣*\))`
+## Introduction \\(￣︶￣*\\)
 
 This project aims to predict the '% Baseline' of solar panel by analyzing historical weather data and solar irradiance data. By merging and cleaning datasets, and then applying machine learning models, this project seeks to build a robust predictive model that can be used for energy forecasting and management.
 
