@@ -51,4 +51,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost scipy
 
 ---
 
-***Disclaimer:** Please note that the code currently in this repository is the raw version from an earlier stage of my learning journey. A more well-documented, refactored, and structured version is currently in development.*
+***Disclaimer:** Please note that the code currently in this repository is the raw version from an earlier stage of our learning journey. A more well-documented, refactored, and structured version is currently in development.*
